@@ -1,0 +1,3 @@
+name: AntiInventory
+version: '${project.version}'
+main: cc.sakurarain.antiinventory.AntiInventory
